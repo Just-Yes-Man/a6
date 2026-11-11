@@ -1,5 +1,5 @@
 public class SearchX {
-
+ //prueba
     public static final double ERROR = 1e-9;
     private static final double START_X = 1.0;
     private static final double START_D = 0.5;
