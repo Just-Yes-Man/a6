@@ -21,7 +21,7 @@ pipeline {
         }
         stage('Deliver') {
             steps {
-                sh 'java -cp target/classes Main 0.45 15'
+                sh 'java -cp target/classes Main 0.20 6'
             }
         }
     }
