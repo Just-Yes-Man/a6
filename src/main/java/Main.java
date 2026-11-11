@@ -1,4 +1,3 @@
-/** Uso: java Main p dof */
 public class Main {
 
     public static void main(String[] args) {

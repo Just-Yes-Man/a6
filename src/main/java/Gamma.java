@@ -17,7 +17,6 @@ public class Gamma {
              return -tmp + Math.log(2.5066282746310005 * ser / x);
     }
 
-    /** Gamma(x) = exp(logGamma(x)), igual que gamma() en Princeton Gamma.java. */
     public static double of(double x) {
         return Math.exp(logGamma(x));
     }
